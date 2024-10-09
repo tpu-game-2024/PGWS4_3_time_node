@@ -4,13 +4,7 @@
 
 ![結果画像1](Movie_001.mp4)
 
-![結果画像2](result2.gif)
-
-![結果画像3](result3.gif)
-
-![結果画像](result.gif)
-
-![シェーダグラフ](node_graph.png)
+![シェーダグラフ](ScreenShot.png)
 
 
 
